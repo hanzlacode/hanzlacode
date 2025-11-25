@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi, I'm Md Hanzla Tanweer 👋
 
-<!--
-**hanzlaCode/hanzlacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Android & Full-Stack Developer**  
+Kotlin • Jetpack Compose • React • Next.js • Firebase • ONNX • Automation
 
-Here are some ideas to get you started:
+I build fast, reliable, and scalable apps — from advanced Android tools to full-stack web platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+- Android apps (Kotlin + Jetpack Compose)
+- Overlay systems & background services
+- Trading tools (Binance API, multi-chart floating windows)
+- Web apps using Next.js / React
+- Full-stack systems with Node.js, MongoDB, Firebase
+- Chrome extensions & automation tools
+- AI-powered apps with ONNX Runtime
+
+---
+
+## 📌 Featured Projects
+
+### 🔷 Floating Multi-Chart Trading Browser (Android)
+- Floating TradingView windows
+- Binance live socket alerts
+- Overlay UI + draggable mini charts
+- WebView injection for faster chart load
+- Save timeframes, links, modes
+- Custom alert system + custom sounds
+
+### 🔷 TopicStream – Strict Category YouTube App (Android)
+- Home feed by category & subcategory
+- Watch Later, Favorites, History, Dashboard
+- Advanced search with keyword matching
+- ONNX model for better recommendations
+- Firebase sync + Room local db
+
+### 🔷 TSAgent — YouTube Transcript Extractor (Android)
+- Extract transcript from public sources
+- Embed with ONNX model for search
+- Upload video data to Firebase every 6 hours
+- Auto-embed, auto-upload system
+- Local caching with Room + DataStore
+
+### 🔷 AirdropHub – Web App (Next.js)
+- Manage daily tasks + airdrops
+- Dark/light theme
+- Local storage persistence
+- Smooth UI with Tailwind + Radix
+
+### 🔷 Pithub — Code Storage Platform (Next.js + Backend)
+- Login/signup with JWT + bcrypt
+- Redis OTP system
+- Google Cloud Storage for file saving
+- Monaco editor for real code editing
+- MongoDB backend
+
+---
+
+## 🔧 Tech Stack
+
+**Mobile:** Kotlin, Jetpack Compose, Hilt, Room, Retrofit, ONNX, WebView  
+**Web:** Next.js, React, Redux Toolkit, Tailwind, Socket.io  
+**Backend:** Node.js, Express, MongoDB, Redis, Firebase  
+**Tools:** Docker, Git, Google Cloud Storage, JWT, Postman  
+
+---
+
+## 🎯 Current Focus
+- Freelance Android + Web development
+- Building advanced automation + AI tools
+- Delivering production-level apps for clients
+
+---
+
+## 📫 Contact
+**Email:** hanzla.code@gmail.com  
