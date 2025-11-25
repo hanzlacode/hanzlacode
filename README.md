@@ -20,7 +20,7 @@ I build fast, reliable, and scalable apps — from advanced Android tools to ful
 
 ## 📌 Featured Projects
 
-### 🔷 Floating Multi-Chart Trading Browser (Android)
+### [🔷 FloatingWeb – Multi-Chart Trading Browser (Android)](https://github.com/hanzlacode/FloatingWeb)
 - Floating TradingView windows
 - Binance live socket alerts
 - Overlay UI + draggable mini charts
@@ -28,14 +28,14 @@ I build fast, reliable, and scalable apps — from advanced Android tools to ful
 - Save timeframes, links, modes
 - Custom alert system + custom sounds
 
-### 🔷 TopicStream – Strict Category YouTube App (Android)
+### [🔷 TopicStream – Smart YouTube Category App (Android)](https://github.com/hanzlacode/TopicStream)
 - Home feed by category & subcategory
 - Watch Later, Favorites, History, Dashboard
 - Advanced search with keyword matching
 - ONNX model for better recommendations
 - Firebase sync + Room local db
 
-### 🔷 TSAgent — YouTube Transcript Extractor (Android)
+### [🔷 🚀 TopicStream Agent – YouTube Video Data Extractor & Uploader (Android)](https://github.com/hanzlacode/TopicStreamAgent)
 - Extract transcript from public sources
 - Embed with ONNX model for search
 - Upload video data to Firebase every 6 hours
