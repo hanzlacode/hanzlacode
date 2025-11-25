@@ -35,7 +35,7 @@ I build fast, reliable, and scalable apps — from advanced Android tools to ful
 - ONNX model for better recommendations
 - Firebase sync + Room local db
 
-### [🔷 🚀 TopicStream Agent – YouTube Video Data Extractor & Uploader (Android)](https://github.com/hanzlacode/TopicStreamAgent)
+### [🔷 TopicStream Agent – YouTube Video Data Extractor & Uploader (Android)](https://github.com/hanzlacode/TopicStreamAgent)
 - Extract transcript from public sources
 - Embed with ONNX model for search
 - Upload video data to Firebase every 6 hours
