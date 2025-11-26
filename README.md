@@ -42,18 +42,11 @@ I build fast, reliable, and scalable apps — from advanced Android tools to ful
 - Auto-embed, auto-upload system
 - Local caching with Room + DataStore
 
-### 🔷 AirdropHub – Web App (Next.js)
+### [🔷 AirdropHub – Web App (Next.js)](https://github.com/hanzlacode/AirdropManager)
 - Manage daily tasks + airdrops
 - Dark/light theme
 - Local storage persistence
 - Smooth UI with Tailwind + Radix
-
-### 🔷 Pithub — Code Storage Platform (Next.js + Backend)
-- Login/signup with JWT + bcrypt
-- Redis OTP system
-- Google Cloud Storage for file saving
-- Monaco editor for real code editing
-- MongoDB backend
 
 ---
 
