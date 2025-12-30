@@ -28,7 +28,7 @@ I build fast, reliable, and scalable apps — from advanced Android tools to ful
 - Save timeframes, links, modes
 - Custom alert system + custom sounds
 
-### [🔷 TrackMyAuto – Real-Time Vehicle & Driver Tracking ](https://github.com/hanzlacode/TrackMyAuto)
+### [🔷 TrackMyAuto – Real-Time Vehicle & Driver Tracking (Android)](https://github.com/hanzlacode/TrackMyAuto)
 - Live GPS tracking using foreground services
 - Auto-restart after app kill & device reboot
 - WorkManager watchdog for service recovery
