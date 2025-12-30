@@ -28,6 +28,16 @@ I build fast, reliable, and scalable apps — from advanced Android tools to ful
 - Save timeframes, links, modes
 - Custom alert system + custom sounds
 
+### [🔷 TrackMyAuto – Real-Time Vehicle & Driver Tracking ](https://github.com/hanzlacode/TrackMyAuto)
+- Live GPS tracking using foreground services
+- Auto-restart after app kill & device reboot
+- WorkManager watchdog for service recovery
+- Manual daily earnings tracking
+- Distance-based earnings (kilometer meter)
+- Google Sign-In with Firebase Authentication
+- Live map view powered by MapLibre
+- Designed for long-running background reliability
+
 ### [🔷 TopicStream – Smart YouTube Category App (Android)](https://github.com/hanzlacode/TopicStream)
 - Home feed by category & subcategory
 - Watch Later, Favorites, History, Dashboard
